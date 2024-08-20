@@ -45,6 +45,8 @@ Pyver
 
 >> ``pyver 312``
 
+>> ``cd path\to\your\venv-box`` *（可选，但是推荐）*
+
 >> ``python -m venv 312-NewProject``
 
 >> ``python -m venv 312-AnotherProject``
