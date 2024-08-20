@@ -50,7 +50,7 @@ Pyver
 
 建议将所有虚拟环境统一存放在一个目录，并在名称中标出 Python 版本：
 
-.. image:: https://github.com/Buggist/pyver/blob/main/source/image.png
+.. image:: /source/image.png
 
 如何在控制台中启用虚拟环境：
 
