@@ -39,15 +39,15 @@ Pyver
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 *（例如已经切换到 Python 3.11）*
 
-``>> python -m venv 311-MyProject`` *（在当前目录下为 MyProject 项目创建专属虚拟环境）*
+>> ``python -m venv 311-MyProject`` *（在当前目录下为 MyProject 项目创建专属虚拟环境）*
 
 也可以再切换到其它 Python 版本创建属于其它 Python 版本的虚拟环境：
 
-  ``>> pyver 312``
+>> ``pyver 312``
 
-  ``>> python -m venv 312-NewProject``
+>> ``python -m venv 312-NewProject``
 
-  ``>> python -m venv 312-AnotherProject``
+>> ``python -m venv 312-AnotherProject``
 
 建议将所有虚拟环境统一存放在一个目录，并在名称中标出 Python 版本：
 
@@ -55,7 +55,7 @@ Pyver
 
 如何在控制台中启用虚拟环境：
 
-  ``>> start 3xx-MyProjectName\Scripts\activate.bat``
+>> ``start 3xx-MyProjectName\Scripts\activate.bat``
 
 如何在 IDE 中指定使用虚拟环境的解释器进行调试：
 
